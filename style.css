@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.header .more-inf {
+.header .more-info {
   font-family: fantasy, cursive;
 }
 
@@ -153,7 +153,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#done-tasks label {
   text-decoration: line-through;
   color: #888;
 }
